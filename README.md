@@ -106,9 +106,3 @@ These metrics help evaluate classification performance on unseen data.
 * Deploy as a web application
 
 ---
-
-## 📧 Contact
-
-For queries or collaboration, please open an issue in the repository.
-
-If you require a more advanced README (badges, CI/CD, deployment, or API integration), specify the requirements.
